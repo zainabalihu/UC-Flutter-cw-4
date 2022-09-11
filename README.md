@@ -16,6 +16,6 @@
 
 ## تمرين بونص
 
-قم بإنشاء تطبيق مواقيت الصلاة مشابه للصوره أسفل
+قم بعمل تطبيق مواقيت الصلاة كما هو بالصورة
 
-<img src="/cw2.png" width="200" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/codedlabs/UC-Flutter-cw-4/blob/main/images/cw2.png" width="200" alt="alt_text" title="image_tooltip">
