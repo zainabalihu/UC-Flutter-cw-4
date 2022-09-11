@@ -16,6 +16,6 @@
 
 ## تمرين بونص
 
-قم بإنشاء تطبيق مشابه للصوره أسفل
+قم بإنشاء تطبيق مواقيت الصلاة مشابه للصوره أسفل
 
-<img src="images/c4-cw3.png" height="300"/>
+<img src="/cw2.png" width="200" alt="alt_text" title="image_tooltip">
