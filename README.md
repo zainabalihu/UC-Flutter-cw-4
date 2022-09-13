@@ -1,20 +1,16 @@
-# UC-Flutter-cw-4
+# unicode_cw4
 
----
+A new Flutter project.
 
-## تمرين 1
+## Getting Started
 
-المطلوب صنع صفحة فيها صورة حيوانك المفضل و تحت الصورة نضيف بعض التفاصيل منها اسم الحيوان و العمر و الخ .. , مثال على التمرين :
+This project is a starting point for a Flutter application.
 
-<img src="images/c4-cw2.jpg" height="300"/>
+A few resources to get you started if this is your first Flutter project:
 
-## تمرين 2
-ضع نص "فصيلة الحيوان" بجانب الصورة
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-## تمرين بونص
-
-قم بعمل تطبيق مواقيت الصلاة كما هو بالصورة
-
-<img src="https://github.com/codedlabs/UC-Flutter-cw-4/blob/main/images/cw2.png" width="200" alt="alt_text" title="image_tooltip">
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
